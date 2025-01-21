@@ -1,0 +1,93 @@
+﻿Round ,Competitor_Red,Competitor_White,Point_awarded_to,Target,Point_order ,Waza_1,Waza_2,Encho,Flag raised
+1,Hiroaki Kato ,Takehiro Tamada,White,Men,1,Debana,,N,3
+1,Hiroaki Kato ,Takehiro Tamada,White,Men,2,Debana,,N,2
+1,Takaya Uemura,Ryujiro Kusano,White,Men,1,Debana,Katate,Y,3
+1,Sho Ando ,Keisaku Nakamura,Red,Men,1,Debana,,N,3
+1,Sho Ando ,Keisaku Nakamura,Red,Men,2,Debana,Nidan,N,3
+1,Kazuya Kawaki,Hiroharu Kamosaki,White,Kote,1,Debana,,Y,3
+1,Yoshihisa Fukui,Daiki Matsuo,Red,Men,1,Misete,Kote,N,3
+1,Yoshihisa Fukui,Daiki Matsuo,White,Men,2,Ouji,,N,3
+1,Yoshihisa Fukui,Daiki Matsuo,White,Men,3,Hiki,,Y,3
+1,Kyohei Hayashida,Fumio Kenjo,Red,Men,1,Misete,Men,N,3
+1,Kyohei Hayashida,Fumio Kenjo,Red,Men,2,Tobikomi,,N,3
+1,Shohei Otani,Satoru Maeda,Red,Kote,1,Tobikomi,,N,3
+1,Shohei Otani,Satoru Maeda,White,Men,2,Nidan,Kote,N,3
+1,Shohei Otani,Satoru Maeda,Red,Men,3,Nuki,Kote,N,3
+1,Takahiro Uezu,Shinichiro Urakawa,White,Kote,1,Debana,,N,3
+1,Takahiro Uezu,Shinichiro Urakawa,White,Men,2,Ouji,,N,2
+1,Yoshimasa Yamana,Rentaro Kunitomo,White,Kote,1,Debana,,Y,2
+1,Kazuaki Matsumoto,Daiki Yamamoto,Red,Men,1,Debana,,Y,3
+1,Ryo Goya,Takuro Okada,Red,Men,1,Hiki,,Y,3
+1,Tomohiro Ito,Yuma Iwakiri,Red,Kote,1,Harai,,Y,3
+1,Taishi Sugimoto,Shuto Izawa,White,Kote,1,Debana,,N,3
+1,Shin Yoshida,Takayuki Yano,White,Kote,1,Misete,Men,N,3
+1,Shin Yoshida,Takayuki Yano,White,Kote,2,Hiki,,N,3
+1,Kenshiro Matsuzaki,Taisei Kato,Red,Men,1,Nidan,,Y,3
+1,Yoshiki Nakada,Tomoki Kosumi,White,Men,1,Tobikomi,,N,3
+1,Yoshiki Nakada,Tomoki Kosumi,White,Men,2,Tobikomi,,N,3
+1,Takuma Goto,Mitsuhiro Jishiro,Red,Do,1,Hiki,,Y,3
+1,Hidehisa Nishimura,Sho Sangawa,Red,Men,1,Hiki,,Y,3
+1,Kensuke Sasaki,Rai Seike,White,Men,1,Misete,Kote,Y,3
+1,Keita Hoshiko,Yusuke Yamashita,White,Kote,1,Tobikomi,,Y,3
+1,Kenji Ogura,Daiki Sato,Red,Men,1,Hiki,,Y,3
+1,Ryuji Adachi,Shinya Nishizawa,White,Men,1,Tobikomi,Katate,Y,3
+1,Hiroyuki Sanada,Takamasa Momota,White,Men,1,Tobikomi,,Y,3
+1,Yusuke Mikumo,Tetsuhiko Murakami,White,Men,1,Tobikomi,,N,3
+1,Yusuke Mikumo,Tetsuhiko Murakami,White,Do,2,Kaeshi,Men,N,3
+1,Junichi Tajima,Kimitaka Nakazawa,White,Men,1,Misete,Men,N,3
+1,Yuichiro Kudamatsu,Ryusuke Kanno,White,Tsuki,1,Tobikomi,,Y,3
+1,Takayuki Sugano,Koki Terashima,White,Men,1,Hiki,,Y,3
+1,Kengo Nakatake,Shoshi Ohira,Red,Do,1,Kaeshi,Men,Y,3
+1,Keita Miyamoto,Toranosuke Ikeda,Red,Kote,1,Tobikomi,,N,3
+1,Keita Miyamoto,Toranosuke Ikeda,White,Men,2,Kaeshi,Kote,N,3
+1,Keita Miyamoto,Toranosuke Ikeda,White,Men,3,Debana,,Y,3
+1,Norimasa Ueno,Soichiro Kawamoto,White,Men,1,Kaeshi,Men,N,3
+1,Hirotaka Sato,Kai Senda,Red,Men,1,Hiki,,Y,3
+1,Shogo Yamamoto,Taishi Yonemaru,Red,Kote,1,Tobikomi,,Y,3
+2,Takehiro Tamada,Ryujiro Kusano,White,Men,1,Debana,Katate,N,3
+2,Takehiro Tamada,Ryujiro Kusano,Red,Kote,2,Tobikomi,,N,3
+2,Takehiro Tamada,Ryujiro Kusano,White,Men,3,Debana,Katate,N,3
+2,Sho Ando ,Hiroharu Kamosaki,Red,Kote,1,Tobikomi,,N,3
+2,Sho Ando ,Hiroharu Kamosaki,Red,Men,2,Nidan,Kote,N,3
+2,Daiki Matsuo,Kyohei Hayashida,White,Men,1,Nidan,Hiki Men,N,3
+2,Daiki Matsuo,Kyohei Hayashida,White,Men,2,MIsete,Men,N,3
+2,Shohei Otani,Shinichiro Urakawa,Red,Men,1,Debana,,N,3
+2,Rentaro Kunitomo,Kazuaki Matsumoto,White,Men,1,Tobikomi,,N,3
+2,Rentaro Kunitomo,Kazuaki Matsumoto,White,Kote,2,Debana ,Hiki Men,N,2
+2,Ryo Goya,Tomohiro Ito,Red,Men,1,Hikibana,,N,3
+2,Ryo Goya,Tomohiro Ito,Red,Men,2,Debana,,N,2
+2,Shuto Izawa,Takayuki Yano,White,Kote,1,Misete,Men,N,3
+2,Shuto Izawa,Takayuki Yano,White,Kote,2,Misete,Men,N,3
+2,Kenshiro Matsuzaki,Tomoki Kosumi,Red,Kote,1,Tobikomi,,N,3
+2,Kenshiro Matsuzaki,Tomoki Kosumi,Red,Kote,2,Debana,,N,2
+2,Takuma Goto,Hidehisa Nishimura,Red,Men,1,Hiki,,N,3
+2,Takuma Goto,Hidehisa Nishimura,Red,Kote,2,Debana,,N,3
+2,Rai Seike,Yusuke Yamashita,White,Kote,1,Hiki,,Y,3
+2,Kenji Ogura,Shinya Nishizawa,Red,Men,1,Hiki,,N,3
+2,Kenji Ogura,Shinya Nishizawa,Red,Kote,2,Debana,,N,3
+2,Takamasa Momota,Tetsuhiko Murakami,White,Tsuki,1,Tobikomi,,Y,3
+2,Kimitaka Nakazawa,Ryusuke Kanno,Red,Do,1,Kaeshi,Men,Y,3
+2,Koki Terashima,Kengo Nakatake,White,Men,1,Hikibana,,Y,3
+2,Toranosuke Ikeda,Soichiro Kawamoto,Red,Kote,1,Tobikomi,,N,3
+2,Hirotaka Sato,Shogo Yamamoto,White,Men,1,Harai,,N,3
+2,Hirotaka Sato,Shogo Yamamoto,White,Tsuki,2,Tobikomi,,N,3
+3,Ryujiro Kusano,Sho Ando,White,Men,1,Misete,Men,N,3
+3,Kyohei Hayashida,Shohei Otani,White,Men,1,Nidan,Kote,N,2
+3,Kyohei Hayashida,Shohei Otani,Red,Men,2,Tobikomi,,N,3
+3,Kyohei Hayashida,Shohei Otani,White,Hansoku,3,Separation,Disarm,Y,3
+3,Kazuaki Matsumoto,Ryo Goya,Red,Men,1,Kaeshi,,N,3
+3,Takayuki Yano,Kenshiro Matsuzaki,Red,Kote,1,Tobikomi,,Y,3
+3,Takuma Goto,Yusuke Yamashita,White,Kote,1,Hikibana,,Y,3
+3,Kenji Ogura,Tetsuhiko Murakami,White,Men,1,Tobikomi,,Y,3
+3,Kimitaka Nakazawa,Kengo Nakatake,Red,Do,1,Kaeshi,Men,N,3
+3,Toranosuke Ikeda,Shogo Yamamoto,Red,Kote,1,Misete,Men,Y,3
+4,Sho Ando ,Shohei Otani,Red,Men,1,Debana,,N,3
+4,Kazuaki Matsumoto,Takayuki Yano,White,Kote,1,Debana,,N,3
+4,Yusuke Yamashita,Tetsuhiko Murakami,White,Kote,1,Tobikomi,,Y,3
+4,Kimitaka Nakazawa,Toranosuke Ikeda,White,Kote,1,Debana,,N,3
+4,Kimitaka Nakazawa,Toranosuke Ikeda,White,Kote,2,Debana,,N,3
+5,Sho Ando ,Takayuki Yano,Red,Do,1,Kaeshi,Men,N,3
+5,Sho Ando ,Takayuki Yano,Red,Kote,2,Misete,Men,N,3
+5,Tetsuhiko Murakami,Toranosuke Ikeda,Red,Men,1,Hikibana,,N,3
+6,Sho Ando ,Tetsuhiko Murakami,White,Men,1,Tobikomi,,N,3
+6,Sho Ando ,Tetsuhiko Murakami,White,Men,2,Tobikomi,,N,3

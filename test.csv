@@ -1,0 +1,22 @@
+﻿Round,Competitor_Red,Competitor_White,Point_awarded_to,Target,Point_order,Waza_1,Waza_2,Encho,Flag raised
+1,Frans,Fadly,White,Kote,1,Debana,,N,3
+1,Hadra,Suryadi,Red,Men,1,Hiki,,N,3
+1,Hadra,Suryadi,Red,Men,2,Debana,,N,3
+1,Filipus,Willy,Red,Kote,1,Debana,,Y,3
+1,Bagas,Gelar,White,Men,1,Tobikomi,,Y,3
+1,Nanda,Gian,White,Kote,1,Misete,Men,N,2
+1,Erwin,Ary,White,Men,1,Katate,,N,3
+1,Erwin,Ary,Red,Kote,2,Debana,,N,3
+1,Erwin,Ary,White,Do,3,Gyaku,,Y,3
+1,Nathan,Sasa,Red,Hansoku,1,Jogai,,N,3
+2,Fadly,Hadra,Red,Kote,1,Degote,,N,3
+2,Fadly,Hadra,Red,Kote,2,Misete,Men,N,2
+2,Filipus,Gelar,White,Do,1,Kaeshi,Men,Y,3
+2,Gian ,Ary,White,Men,1,Katate,,N,3
+3,Fadly,Ary,Red,Kote,1,Debana,,N,3
+3,Fadly,Ary,Red,Kote,2,Tobikomi,,N,3
+3,Gelar,Nathan,Red,Men,1,Tobikomi,,N,3
+3,Gelar,Nathan,Red,Men,2,Tobikomi,,N,3
+4,Fadly,Gelar,Red,Men,1,Misete,Men,N,3
+4,Fadly,Gelar,White,Men,2,Debana,,N,3
+4,Fadly,Gelar,Red,Kote,3,Debana,,N,3
