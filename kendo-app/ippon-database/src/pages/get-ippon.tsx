@@ -1,7 +1,11 @@
+import Layout from "~/components/layout";
+
 export default function GetIpponPage() {
   return (
-    <div>
-      <h1>This is get Ippon page</h1>;
-    </div>
+    <Layout>
+      <div>
+        <h1>This is get Ippon page</h1>
+      </div>
+    </Layout>
   );
 }

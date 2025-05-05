@@ -7,13 +7,21 @@ export default function LandingPage() {
         Kendo ippon database
       </h1>
       <h2 className="text-2xl">What do you want to do?</h2>
-      <div className="flex gap-5">
+      <div className="flex items-start gap-5">
         <Link
           className="rounded bg-neutral-300 px-2 py-1 hover:bg-neutral-500"
           href="/add-ippon"
         >
           Add ippon
         </Link>
+        <div>
+          <Link
+            className="flex h-28 w-64 items-center justify-center rounded-xl bg-neutral-300 px-4 py-2 text-2xl font-semibold hover:bg-neutral-500"
+            href="/start-match"
+          >
+            Start a match
+          </Link>
+        </div>
         <Link
           className="rounded bg-neutral-300 px-2 py-1 hover:bg-neutral-500"
           href="/get-ippon"
