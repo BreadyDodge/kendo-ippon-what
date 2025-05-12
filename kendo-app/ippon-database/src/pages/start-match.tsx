@@ -1,6 +1,6 @@
 import TeamIppon from "~/components/team-ippon";
 import Layout from "~/components/layout";
-import TournamentSelect from "~/components/select/tournament-select";
+import TournamentSelect from "~/components/matches/tournament-select";
 
 export default function StartMatch() {
   return (

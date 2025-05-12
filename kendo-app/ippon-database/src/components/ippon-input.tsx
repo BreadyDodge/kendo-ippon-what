@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { Switch } from "./ui/switch";
 import { Label } from "./ui/label";
-import IpponComponent from "./select/ippon-component-select";
-import PlayerSelect from "./select/player-select";
+import IpponComponent from "./matches/ippon-component-select";
+import PlayerSelect from "./matches/player-select";
 import { motion } from "framer-motion";
-import TournamentSelect from "./select/tournament-select";
+import TournamentSelect from "./matches/tournament-select";
 import { CircleMinus, CirclePlus } from "lucide-react";
-import TeamSelect from "./select/team-select";
+import TeamSelect from "./matches/team-select";
 
 interface MatchInput {
   round: 1 | 2 | 3 | 4 | 5 | 6;

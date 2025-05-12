@@ -1,4 +1,4 @@
-import TournamentSelect from "./select/tournament-select";
+import TournamentSelect from "./matches/tournament-select";
 import { useState } from "react";
 import { Switch } from "./ui/switch";
 import { Label } from "./ui/label";
