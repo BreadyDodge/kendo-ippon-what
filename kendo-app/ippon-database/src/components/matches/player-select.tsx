@@ -9,9 +9,9 @@ const PlayerSelect = () => {
           <p>White Player</p>
         </div>
         <div className="flex gap-10">
-          <Input className="bg-neutral-300" placeholder="Red Player" />
+          <Input placeholder="Red Player" />
           <h1 className="text-lg font-bold">VS</h1>
-          <Input placeholder="White Player" className="bg-neutral-300" />
+          <Input placeholder="White Player" />
         </div>
       </div>
     </>
